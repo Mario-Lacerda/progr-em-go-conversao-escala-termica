@@ -1,4 +1,4 @@
-# Programa em Go para Conversão de Escalas Termometricas
+# Desafio Dio - Programa em Go para Conversão de Escalas Termometricas
 
 
 **Programa em Go para Conversão de Escalas Termométricas**
